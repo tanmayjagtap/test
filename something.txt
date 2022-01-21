@@ -1,1 +1,2 @@
-My first commity
+My first commit
+My second commit
